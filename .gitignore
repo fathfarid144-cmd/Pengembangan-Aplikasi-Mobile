@@ -1,0 +1,22 @@
+# Android Studio & IntelliJ
+.idea/
+*.iml
+.gradle/
+build/
+captures/
+local.properties
+.cxx/
+
+# OS & Office Temp Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+~$*.docx
+*.tmp
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
