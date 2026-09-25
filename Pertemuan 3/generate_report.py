@@ -227,9 +227,9 @@ html_content = f"""<!DOCTYPE html>
         <td>Semester 7 / Genap 2025/2026</td>
     </tr>
     <tr>
-        <td class="label">Dosen Pengampu</td>
+        <td class="label">Repositori GitHub</td>
         <td class="colon">:</td>
-        <td>Tim Dosen Teknik Informatika ITERA</td>
+        <td><a href="https://github.com/fathfarid144-cmd/Pengembangan-Aplikasi-Mobile/tree/main/Pertemuan%203" style="color: #1e3a8a; text-decoration: underline; font-weight: 500;">https://github.com/fathfarid144-cmd/Pengembangan-Aplikasi-Mobile/tree/main/Pertemuan%203</a></td>
     </tr>
     <tr>
         <td class="label">Tanggal Pelaksanaan</td>
